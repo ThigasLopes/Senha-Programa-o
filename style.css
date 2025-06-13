@@ -11,11 +11,11 @@
 }
 
 * {
-    font-weight: 400;
+    font-weight: 500;
 }
 
 body {
-    color: var(--branco);
+    color: var(--cinza);
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
